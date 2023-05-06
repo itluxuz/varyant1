@@ -5,12 +5,27 @@
     --light: #D6D6D6;
     --dark: #0A0A0A;
 }
-
+.text-1{
+    color:#203554 ;
+}
+.text-3{
+    color: #FFFFFF;
+}
+.tt3s{
+ margin-top: -40px ;
+}
 .btn {
     font-weight: 700;
     transition: .5s;
 }
-
+.text-primary{
+    color: #91A7C9 !important;
+}
+.btn-primary{
+ 
+    background-color: #91A7C9 !important;
+    border: #91A7C9 !important;
+}
 .btn:hover {
     -webkit-box-shadow: 0 8px 6px -6px #555555;
     -moz-box-shadow: 0 8px 6px -6px #555555;
